@@ -2,7 +2,7 @@
 
 来自豆友们在疫情期间的记录，大部分来自湖北省。暂定范围为豆瓣，未来可能有所扩增。  
 
-欢迎访问[网站](https://2020ncov-individual-archives.netlify.com/)  
+欢迎访问[网站](https://reservety.com/)  
 
 _(以及，非常感谢大家的Star，受之惶恐。)_  
 
